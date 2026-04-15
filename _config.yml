@@ -1,0 +1,19 @@
+# Настройка темы
+theme: minima
+
+# Основные настройки сайта
+title: Мой первый блог на GitHub Pages
+author: Полина Калчевская
+description: Учусь создавать сайты с помощью GitHub Pages
+
+# Дополнительные настройки (опционально)
+email: your-email@example.com
+github_username: PolinaKalchevskaya
+
+# Настройка навигации (опционально)
+header_pages:
+  - index.md
+  - about.md
+
+# Временная зона
+timezone: Europe/Moscow
